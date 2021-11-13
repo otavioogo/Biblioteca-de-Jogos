@@ -4,6 +4,6 @@
 
 - Gabriel Pancaldi
 - Otavio Ogo
-- Luis Felipe Fokubara
+
 
 
